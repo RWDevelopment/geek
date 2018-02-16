@@ -5,3 +5,5 @@ html,body {height:100%;
 .display-2 {
   font-family: 'Archivo Black', sans-serif;
 }
+.flash {display: none}
+.flash.active {display: block}
