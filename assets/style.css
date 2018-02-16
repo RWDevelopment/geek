@@ -6,4 +6,4 @@ html,body {height:100%;
   font-family: 'Archivo Black', sans-serif;
 }
 .flash {display: none}
-.flash.active {display: block}
+.flash.active {display: inline}
