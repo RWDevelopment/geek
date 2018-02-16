@@ -1,6 +1,8 @@
 html,body {height:100%;
   scroll-behavior:smooth;
   font-family: 'Roboto Condensed';
+  background: #444;
+  color:#fff;
 }
 .display-2 {
   font-family: 'Archivo Black', sans-serif;
