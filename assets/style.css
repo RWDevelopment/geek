@@ -7,6 +7,6 @@ html,body {height:100%;
 h1 {
   font-family: 'Archivo Black', sans-serif; color:#fff;
 }
-p {letter-spacing:2px;}
+p {letter-spacing:1px;}
 .flash {display: none}
 .flash.active {display: inline}
