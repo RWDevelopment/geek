@@ -97,7 +97,7 @@ a:hover {color:#000;text-decoration:none;}
 
 .carousel-fade .carousel-item {
  opacity: 0;
- transition-duration: .4s;
+ transition-duration: .2s;
  transition-property: opacity;
 }
 
