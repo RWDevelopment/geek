@@ -57,9 +57,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	
-<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>  
-<script src="assets/app.js"></script>	  
-	  
+
 	  
 	  
    <style>
@@ -70,16 +68,16 @@ top: 0;
 left: 0;
 z-index: 0;
 }
-	  </style>
-	  <div class="background" id="particles-js"></div>
-   <canva class="backgroun"></canva>
+</style>
+	  
+   <canvas class="backgroun"></canvas>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.1.0/particles.min.js"></script>
    <script>
 	  window.onload = function() {
    Particles.init({
-    selector: '.backgroun',
+    selector: '.background',
     connectParticles: false,
-    sizeVariations: 2,
+    sizeVariations: 4,
     color: '#999999'
  });
 		  
