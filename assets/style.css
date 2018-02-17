@@ -8,6 +8,7 @@ h1 {
   font-family: 'Archivo Black', sans-serif; color:#000;
 }
 p {letter-spacing:1px;}
+a {color:#000;}
 .flash {display: none}
 .shadow {text-shadow: 1px 1px 3px rgba(0,0,0,0.3);}
 
