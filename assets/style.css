@@ -47,7 +47,7 @@ a:hover {color:#000;text-decoration:none;}
   transition-timing-function: ease-out;
 }
 .hvr-sweep-to-right:hover, .hvr-sweep-to-right:focus, .hvr-sweep-to-right:active {
-  color: yellow;
+  color: white;
 }
 .hvr-sweep-to-right:hover:before, .hvr-sweep-to-right:focus:before, .hvr-sweep-to-right:active:before {
   -webkit-transform: scaleX(1);
@@ -88,7 +88,7 @@ a:hover {color:#000;text-decoration:none;}
   transition-timing-function: ease-out;
 }
 .hvr-sweep-to-left:hover, .hvr-sweep-to-left:focus, .hvr-sweep-to-left:active {
-  color: yellow;
+  color: white;
 }
 .hvr-sweep-to-left:hover:before, .hvr-sweep-to-left:focus:before, .hvr-sweep-to-left:active:before {
   -webkit-transform: scaleX(1);
