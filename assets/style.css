@@ -9,7 +9,7 @@ h1 {
 }
 p {letter-spacing:1px;}
 .flash {display: none}
-
+.shadow {text-shadow: 1px 1px 3px rgba(0,0,0,0.3);}
 
 /* Sweep To Right */
 .hvr-sweep-to-right {
